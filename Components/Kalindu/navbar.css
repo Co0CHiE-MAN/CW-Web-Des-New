@@ -1,12 +1,16 @@
 ::-webkit-scrollbar {
   position: fixed;
   width: 7px;
-  background-color: #5a5541c9;
+  background-color: #a1a1a1;
   border-radius: 1px;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: #ffcd6f;
+  background-color: #2be9ad;
   border-radius: 10px;
+}
+*{
+    text-decoration: none;
+    scroll-behavior: smooth !important;
 }
 nav {
     position: fixed;

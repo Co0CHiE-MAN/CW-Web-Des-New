@@ -51,9 +51,11 @@
     font-size: 18px;
     line-height: 30px;
     letter-spacing: 0.5px;
+    
 }
 
 .bottomImg {
     width: 100%;
     margin-bottom: 0;
+    display: block;
 }
