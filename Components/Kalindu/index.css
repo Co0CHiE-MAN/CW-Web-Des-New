@@ -5,6 +5,7 @@
     box-sizing: border-box;
     font-family: "Titillium Web", sans-serif;
     text-decoration: none;
+    scroll-behavior: smooth;
 }
 
 /* --------------    Splash Screen start    ------------------------------------------------------------------------- */
